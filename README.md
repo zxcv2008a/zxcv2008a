@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=zxcv2008a.zxcv2008a&style=flat-square&color=0088cc)
 
-.👨🏻‍💻. I'm Software Engineer .🎓. Pusan National University .🏛. Egyptian Based in South Korea .📍. Three times Hackathon Winner .🏆. Passionate about finding innovative solutions for global challenges .🌍. Motivated to help designing cutting-edge technologies .💡. I love to explore new technologies and leverage them to solve real-life problems .✨. I'm currently into DevOps .♾️. and Blockchain .₿. 
+.👨🏻‍💻. I'm Software Engineer .🎓. Pusan National University .🏛. Egyptian Based in South Korea .📍. Three times Hackathon Winner .🏆. Passionate about finding innovative solutions for global challenges .🌍. Motivated to help designing cutting-edge technologies .💡. I love to explore new technologies and leverage them to solve real-life problems .✨. I'm currently into DevOps .♾️. and Blockchain .💰🚀₿. 
 
 
 ### Talking about Personal Stuffs:
