@@ -8,12 +8,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=zxcv2008a.zxcv2008a&style=flat-square&color=0088cc)
 
-I'm Software Engineer 🎓 Pusan National University 🏛. I'm passionate about finding innovative solutions for global challenges. 🌍 . Motivated to help designing cutting-edge technologies. 💡. I love to explore new technologies and leverage them to solve real-life problems. ✨. Egyptian Based in South Korea 👨🏻‍💻. I'm currently into DevOps and Blockchain  .
+👨🏻‍💻 I'm Software Engineer .🎓. Pusan National University 🏛 .Egyptian Based in South Korea 📍 I'm passionate about finding innovative solutions for global challenges .🌍 . Motivated to help designing cutting-edge technologies .💡. I love to explore new technologies and leverage them to solve real-life problems .✨. I'm currently into DevOps .♾️. and Blockchain .₿. 
 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Golang Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Golang Nodejs, C++, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently Freelancing.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/zxcv2008a).
 - 📫 &nbsp; How to reach me: zxcv2008a@gmail.com.
@@ -115,7 +115,7 @@ I'm Software Engineer 🎓 Pusan National University 🏛. I'm passionate about 
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b> Ubuntu 20.04 LTE</li>
 	    <li><b>Laptop: </b> MSI Laptop</li>
   	    <li><b>Browser: </b> Chrome Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
