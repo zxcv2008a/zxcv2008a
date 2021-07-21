@@ -73,40 +73,6 @@
         <td><b>👨‍💻 Language</b></td>
       </tr>
     </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/zxcv2008a/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/zxcv2008a/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/zxcv2008a/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/zxcv2008a/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zxcv2008a/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/zxcv2008a/Gitwar?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/zxcv2008a/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/zxcv2008a/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/zxcv2008a/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/zxcv2008a/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zxcv2008a/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/zxcv2008a/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/zxcv2008a/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/zxcv2008a/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/zxcv2008a/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/zxcv2008a/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zxcv2008a/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/zxcv2008a/TheNodeCourse?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/zxcv2008a/zxcv2008a"><b>🤓 zxcv2008a</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/zxcv2008a/zxcv2008a?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/zxcv2008a/zxcv2008a?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/zxcv2008a/zxcv2008a?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zxcv2008a/zxcv2008a?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
   </table>
   <br />
 </details>
