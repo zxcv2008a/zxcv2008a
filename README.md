@@ -17,7 +17,6 @@
 - 🚀 &nbsp; I’m currently Freelancing.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/zxcv2008a).
 - 📫 &nbsp; How to reach me: zxcv2008a@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/11A6yZq2G9nh9fkk41QJSk530XCPI8Tac/view?usp=sharing).
 
 ### My Absolute Favorites:
 
