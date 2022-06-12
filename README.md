@@ -14,7 +14,7 @@
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Golang, Nodejs, C++, Gitlab-CI, RestAPI, Javascript, etc.
-- 🚀 &nbsp; I’m currently Freelancing.
+- 🚀 &nbsp; I’m currently working at [NotionTheory](https://notiontheory.com).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/zxcv2008a).
 - 📫 &nbsp; How to reach me: zxcv2008a@gmail.com.
 
